@@ -1,0 +1,12 @@
+/* Webfont: SweetBlooms */@font-face {
+    font-family: 'SweetBlooms';
+    src: url('Sweet Blooms.eot'); /* IE9 Compat Modes */
+    src: url('Sweet Blooms.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sweet Blooms.woff') format('woff'), /* Modern Browsers */
+         url('Sweet Blooms.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Sweet Blooms.svg#SweetBlooms') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
